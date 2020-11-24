@@ -1,0 +1,6 @@
+framework module Pods_JYTableViewLayoutTests {
+  umbrella header "Pods-JYTableViewLayoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
